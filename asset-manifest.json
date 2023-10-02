@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portf-ZA/static/css/main.16cabe20.css",
+    "main.js": "/portf-ZA/static/js/main.76f4faa5.js",
+    "static/media/me.jpg": "/portf-ZA/static/media/me.2b609dd1bc44e7d772c9.jpg",
+    "static/media/profilephoto.png": "/portf-ZA/static/media/profilephoto.6baa9038ef5c2775b575.png",
+    "static/media/bg-1.jpg": "/portf-ZA/static/media/bg-1.e7a118c397efc44bbf9e.jpg",
+    "static/media/Anas.jpg": "/portf-ZA/static/media/Anas.fd9b350fc53ff1ca2da9.jpg",
+    "static/media/Poppins-Thin.ttf": "/portf-ZA/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/portf-ZA/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/portf-ZA/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/portf-ZA/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/portf-ZA/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/portf-ZA/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/portf-ZA/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/Yazan.jpg": "/portf-ZA/static/media/Yazan.da21f7f92d7361e6ebf6.jpg",
+    "static/media/Raji.jpg": "/portf-ZA/static/media/Raji.3f688c7a1e7523d1fafa.jpg",
+    "static/media/Necati.jpg": "/portf-ZA/static/media/Necati.cfbfd25b78d1f8e47a6c.jpg",
+    "static/media/email.jpg": "/portf-ZA/static/media/email.45e236e62330f0cff77c.jpg",
+    "static/media/Background-Home.jpg": "/portf-ZA/static/media/Background-Home.261a6369ddc8fd9b4870.jpg",
+    "index.html": "/portf-ZA/index.html",
+    "static/media/programming-skills.svg": "/portf-ZA/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/portf-ZA/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/portf-ZA/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/portf-ZA/static/media/education.10cfa28a40119ebd70cf.svg",
+    "static/media/work-history.svg": "/portf-ZA/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.16cabe20.css.map": "/portf-ZA/static/css/main.16cabe20.css.map",
+    "main.76f4faa5.js.map": "/portf-ZA/static/js/main.76f4faa5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16cabe20.css",
+    "static/js/main.76f4faa5.js"
+  ]
+}
